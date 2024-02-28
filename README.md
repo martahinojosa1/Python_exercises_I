@@ -11,7 +11,7 @@
 
 
 ### Descripción:
-En esta serie de ejercicios, encontrarás una selección de problemas básicos de Python que abarcan una variedad de temas, incluyendo métodos, extracción de string concretos de listas y diccionarios anidados, funciones básicas y funciones lambda. Estos ejercicios ayudan a practicar y consolidar conocimientos básicos de Python. 
+En esta serie de ejercicios encontrarás una selección de problemas básicos de Python que abarcan una variedad de temas, incluyendo métodos, extracción de string concretos de listas y diccionarios anidados, funciones básicas y funciones lambda. Estos ejercicios ayudan a practicar y consolidar conocimientos básicos de Python. 
 
 ## Contenidos:
 
