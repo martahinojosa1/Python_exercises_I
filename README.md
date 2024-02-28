@@ -1,6 +1,6 @@
 # Python basic exercises - Upgrade Hub
 
-(https://media.geeksforgeeks.org/wp-content/uploads/20210105234135/PythonPracticeExercisesQuestionsandSolutionsmin.png)
+https://media.geeksforgeeks.org/wp-content/uploads/20210105234135/PythonPracticeExercisesQuestionsandSolutionsmin.png
 
 ¡Bienvenido/a a unos ejercicios básicos de Python del Bootcamp Data Analytics de Upgrade Hub!
 
