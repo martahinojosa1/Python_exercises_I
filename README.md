@@ -13,17 +13,12 @@
 ### Descripción:
 En esta serie de ejercicios encontrarás una selección de problemas básicos de Python que abarcan una variedad de temas, incluyendo métodos, extracción de string concretos de listas y diccionarios anidados, funciones básicas y funciones lambda. Estos ejercicios ayudan a practicar y consolidar conocimientos básicos de Python. 
 
-## Contenidos:
 
-1. [Miscelánea](#Miscelanea)
-2. [Métodos](#Metodos)
-
-
-## Miscelanea:
+## 1. Miscelánea:
 
 Esta sección contiene ejercicios que combinan conceptos básicos de Python, como funciones, listas, diccionarios, bucles, etc.
 
-## Metodos:
+## 2. Métodos:
 
 Aquí encontrarás un ejercicio con una función que utiliza condicionales con comparadores y varias opciones. 
 
