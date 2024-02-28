@@ -7,7 +7,8 @@
 
 ## Escuela: Upgrade Hub
 
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM7NfWixR3ZWLbX_WuEhZDCtDgEgWmURppFjN_XkLu2Q&s)
+![image](https://github.com/martahinojosa1/Python_exercises_I/assets/161476506/1c16b7f3-9804-4973-8053-e1a7c321a9ef)
+
 
 ### Descripción:
 En esta serie de ejercicios, encontrarás una selección de problemas básicos de Python que abarcan una variedad de temas, incluyendo métodos, extracción de string concretos de listas y diccionarios anidados, funciones básicas y funciones lambda. Estos ejercicios ayudan a practicar y consolidar conocimientos básicos de Python. 
